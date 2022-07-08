@@ -1,0 +1,16 @@
+*{margin: 0px; padding: 0px}
+
+
+#instagram{
+    height:45px;
+    font-weight: 45px;
+    @media screen and (max-width:480px) {
+        height:10px;
+        font-weight:10px;
+    }
+    
+}
+#downloand{
+    text-decoration: none;
+    
+}
